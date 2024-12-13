@@ -1,4 +1,10 @@
 github:
+  description: "Apache Sling Launchpad Testing Fragment Bundle (deprecated)"
+  homepage: "https://sling.apache.org/"
+  labels:
+  - "java"
+  - "sling"
+  - "deprecated"
   autolink_jira:
   - "SLING"
   - "OAK"
