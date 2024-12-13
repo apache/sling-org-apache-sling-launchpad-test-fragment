@@ -4,4 +4,6 @@
 
 # Apache Sling Launchpad Testing Fragment Bundle (deprecated)
 
+This module is **obsolete**.
+
 For reference or potential bugfix releases use branch [maintenance](https://github.com/apache/sling-org-apache-sling-launchpad-test-fragment/tree/maintenance).
